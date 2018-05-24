@@ -1,0 +1,4 @@
+casServerLoginUrl: https://localhost:8443/cas/login
+casServerLogoutUrl: https://localhost:8443/cas/logout
+serviceUrl: http://localhost:8080
+casServerUrlPrefix: https://localhost:8443/cas
